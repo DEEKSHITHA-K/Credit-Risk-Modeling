@@ -34,7 +34,7 @@ The project utilizes the **"Give Me Some Credit"** dataset.
 * `MonthlyIncome`
 * `NumberOfOpenCreditLinesAndLoans`
 * `NumberOfTimes90DaysLate`
-* `NumberOfDependents`.
+* `NumberOfDependents`
 
 
 
